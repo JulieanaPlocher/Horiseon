@@ -2,14 +2,13 @@
 
 ## Description
 
-This is a landing page for a company called Horiseon. In this challenge  I changed code in html to make it more semantic and grouped css classes to reduce redundant code.
+This is a landing page for a company called Horiseon. In this challenge I changed code in html to make it more semantic and grouped css classes to reduce redundant code.
 
 ## Table-of-Contents
-* [Usage](#usage)
-* [URL (github repository)](#urlrepo)
-* [Screenshot](#screenshot)
 
-
+- [Usage](#usage)
+- [URL (github repository)](#urlrepo)
+- [Screenshot](#screenshot)
 
 ## Usage
 
@@ -17,7 +16,8 @@ Learn about the company Horiseon
 
 ## URL (github repository)<a name="urlrepo"></a>
 
-<url to deployed link>
+https://julieanaplocher.github.io/Horiseon/
 
 ## Screenshot
+
 <screenshot(s) go here>
