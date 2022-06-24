@@ -1,4 +1,4 @@
-# <Challenge 1 Horiseon>
+# Horiseon
 
 ## Description
 
@@ -20,4 +20,5 @@ https://julieanaplocher.github.io/Horiseon/
 
 ## Screenshot
 
-<screenshot(s) go here>
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/106258911/175649856-4a41d402-8cff-49e4-bc33-74222833730c.png">
+
